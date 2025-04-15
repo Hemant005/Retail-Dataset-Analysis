@@ -55,3 +55,14 @@ This project demonstrates a cloud-based retail data pipeline using **AWS Service
 - Explore scheduling using **Amazon EventBridge**
 
 ---
+
+![Retail_ETL (1)](https://github.com/user-attachments/assets/d8d90218-bd2a-49ef-acd2-ae1aa97d8229)
+
+![image](https://github.com/user-attachments/assets/9b2ecd30-27fc-4dc3-8458-69ac5f3742da)
+
+![Screenshot 2025-04-07 161453](https://github.com/user-attachments/assets/dc3ce78e-cba7-4327-8bea-a5439f46862a)
+
+![Screenshot 2025-04-07 164420](https://github.com/user-attachments/assets/d24211c2-e973-44f9-ae99-7faddfa7d57f)
+
+
+
